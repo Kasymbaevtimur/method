@@ -7,7 +7,7 @@ public class Main {
 
         String word = "Hello";
         String word2 = "Hello";
-
+        System.out.println();
         System.out.println(word.indexOf("o"));
 
 
